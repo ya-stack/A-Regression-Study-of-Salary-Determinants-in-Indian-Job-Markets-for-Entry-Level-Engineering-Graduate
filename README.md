@@ -1,5 +1,5 @@
 PROBLEM STATEMENT:
-A study of salary determinants in Indian job markets for entry level engineering graduates.
+* A study of salary determinants in Indian job markets for entry level engineering graduates.
 
 The dataset was released by Aspiring Minds from the Aspiring Mind Employment Outcome 2015 (AMEO). 
 The study is primarily limited only to students with engineering disciplines. 
@@ -32,6 +32,6 @@ Voting Classifier(Soft Voting) etc.
 * Gradient Boosting Classifier gave the best score !
 
 BUSINESS IMPACT:
-The business use case was to come up with a Machine Learning model which could predict the salary of an engineering graduate joining in the near future, using the list of features mentioned in the dataset such as degree, specialization, gender, college tier etc.
+* The business use case was to come up with a Machine Learning model which could predict the salary of an engineering graduate joining in the near future, using the list of features mentioned in the dataset such as degree, specialization, gender, college tier etc.
 
 Thanks!!
